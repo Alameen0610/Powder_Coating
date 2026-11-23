@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.bg-silver{
+    background-color: #cccccc;
+}
+
+.bg-burgundy{
+    background-color: #800020;
+}
+
+.text-silver{
+    color: #cccccc;
+}
+
+.text-burgundy{
+    color: #800020;
+}
+
+@media (min-width: 768px) {
+    
+}
