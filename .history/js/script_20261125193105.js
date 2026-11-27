@@ -1,0 +1,3 @@
+sidebar(){
+    document.getElementById
+}
